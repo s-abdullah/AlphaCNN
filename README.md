@@ -26,7 +26,7 @@ Original Input Image:
 
 The following image is taken after from the original and thresholded for Blue:
 
-![alt text](https://github.com/s-abdullah/AlphaCNN/blob/master/Images/a4.png)
+![alt text](https://github.com/s-abdullah/AlphaCNN/blob/master/Images/a3.png)
 
 This is then thresholded into a binary image:
 
