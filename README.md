@@ -10,7 +10,7 @@ A very simple Convolutional Neural Network was used here:
 1) 3 Convolutional Layers
 2) 2 Fully Connected Layers
 3) Hyperbolic Tangent as the activation
-4) 0.1 Dopout in Fully Connected layers
+4) 0.1 Dropout in Fully Connected layers
 5) Log Softmax with ADAM optimizer
 ![alt text](https://github.com/s-abdullah/AlphaCNN/blob/master/images/network.png)
 ## Training results
