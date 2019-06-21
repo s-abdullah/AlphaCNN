@@ -20,6 +20,7 @@ The model achieved 100% accuracy in training and 87% in testing. 1200 epochs wer
 ## Use in Application
 A simple program was made to leverage the trained model. It loads the models, and takes in a photo of video. 
 The imaged is segmented to get the bounding boxes of the letters using contours. The a series of processing steps are taken to make it ready for the network.
+
 Original Input Image:
 
 ![alt text](https://github.com/s-abdullah/AlphaCNN/blob/master/Images/real.JPG)
